@@ -1,7 +1,7 @@
 # ----- Spécification de l'image de base -----
 # obligatoire de précisé l'image avec la commande 'FROM <nom_image>:<tag>'
 # si <tag> n'est pas précisé ce sera 'latest' par défaut
-FROM ubuntu 
+FROM debian 
 
 # Ceci est un commentaire
 
